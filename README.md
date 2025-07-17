@@ -37,7 +37,7 @@ Un repositorio integral para aprender, practicar y dominar SQL con tutoriales, e
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/sql-repository.git
+   git clone https://github.com/agalaviz98/sql-repository.git
    cd sql-repository
    ```
 
@@ -89,9 +89,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](./LICENSE) p
 
 ## 📞 Contacto
 
-- **Autor**: Tu Nombre
-- **Email**: tu.email@ejemplo.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
+- **Autor**: Alfonso G
+- **Email**: agalaviz9804@gmail.com
+- **GitHub**: [@agalaviz98](https://github.com/agalaviz98)
 
 ## 🙏 Agradecimientos
 
