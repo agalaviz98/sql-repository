@@ -1,8 +1,8 @@
-# 🗃️ Repositorio SQL Completo
+# Repositorio SQL Completo
 
 Un repositorio integral para aprender, practicar y dominar SQL con tutoriales, ejemplos prácticos y herramientas útiles.
 
-## 📋 Contenido
+## Contenido
 
 ### 📚 Tutoriales
 - **[Básico](./tutoriales/basico/)** - Fundamentos de SQL para principiantes
@@ -27,7 +27,7 @@ Un repositorio integral para aprender, practicar y dominar SQL con tutoriales, e
 - **[Datasets](./recursos/datasets/)** - Conjuntos de datos para práctica
 - **[Documentación](./recursos/documentacion/)** - Referencias y guías adicionales
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ### Prerrequisitos
 - Conocimientos básicos de bases de datos
@@ -37,7 +37,7 @@ Un repositorio integral para aprender, practicar y dominar SQL con tutoriales, e
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/agalaviz98/sql-repository.git
+   git clone https://github.com/YOUR_USERNAME/sql-repository.git
    cd sql-repository
    ```
 
